@@ -1,0 +1,122 @@
+{
+  "general": {
+    "name": "Borgar Flaen Stensrud",
+    "tagline": "Fullstack-utvikler og kreativ teknolog",
+    "description": "Med over 18 års erfaring innen webutvikling, design og innovasjon, bygger jeg løsninger som begeistrer og fungerer."
+  },
+"projects": [
+  {
+    "title": "Salutor – AI Kundebehandler",
+    "subtitle": "SaaS for små og mellomstore bedrifter",
+    "description": "Et AI-drevet verktøy for automatisert kundeservice, ordrebehandling og support. Bruker Supabase, Next.js og GPT-modeller.",
+    "image": "/media/salutor.png"
+  },
+  {
+    "title": "SpriteToJSON Editor",
+    "subtitle": "Desktopverktøy for sprite-analyse og eksport",
+    "description": "Et Python-basert GUI-verktøy for å kutte, analysere og eksportere sprites til JSON med støtte for animasjoner og tilemaps.",
+    "image": "/media/spritetojson.png"
+  },
+  {
+    "title": "Kaukus - en digitalisering av politiske møter",
+    "subtitle": "Webapp for politiske møter i norge og polen",
+    "description": "En webapp for å digitalisere politiske møter og lokalmedvirkning. Bygget med Ruby on Rails, Turbo Streams og PostgreSQL. Jeg har vært med på å utvikle løsninger for politiske møter som intern hos Kaukus og Rubynor.",
+    "image": "/media/kaukus.png"
+  },
+  {
+    "title": "MrFix - nettbutikk",
+    "subtitle": "Nettbutikk for universalsåpe",
+    "description": "En nettbutikk for salg av universalsåpe. Bygget med nextjs. ",
+    "image": "/media/mrfix.png"
+  },
+  {
+    "title": "Grandmaster's smith",
+    "subtitle": "Studentprosjekt",
+    "description": "Min gruppe og jeg laget et sosialt nettverk for sjakkspillere, med interaktiv sjakkopplæring.",
+    "image": "/media/gssmith.png"
+  },
+  {
+    "title": "CodeExtractor",
+    "subtitle": "Hobbyprosjekt",
+    "description": "Et Python-basert verktøy for å analysere og eksportere kode fra bilder og video. Bruker OpenCV og Tesseract for bildebehandling og tekstgjenkjenning.",
+    "image": "/media/codeExtractor.png"
+   
+  }
+],
+
+
+  "experience": [
+    {
+      "title": "Ruby on Rails utvikler",
+      "subtitle": "Rubynor & Kaukus – 2024",
+      "description": "Utviklet løsninger for politiske partier og lokalmedvirkning med Turbo Streams, HAML og PostgreSQL."
+    },
+    {
+      "title": "Webutvikler av nettbutikk",
+      "subtitle": "MrFix - 2007-2024",
+      "description": "Har bygget og opptimalisert nettbutikk for salg av universalsåpe."
+    },
+    {
+      "title": "Frilanser & bedriftsleder",
+      "subtitle": "Eget selskap – 2010–nå",
+      "description": "Har levert alt fra nettsider, logoer og trykksaker til backend-systemer og digitale kampanjer for norske SMB-er."
+    },
+    {
+      "title": "Nettstedsutvikler",
+      "subtitle": "Telesalg AS - 2016",
+      "description": "Ansvar for nettstedsutvikling og vedlikehold av flere nettsteder for Telesalg AS. Jobbet med PHP, MySQL og jQuery."
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor i informatikk",
+      "subtitle": "Universitetet i Sørøst-Norge - 2022-2025",
+      "description": "Fokus på programmering, databaser, programvareutvikling og moderne webteknologier."
+    },
+    {
+      "title": "Webutvikler",
+      "subtitle": "GET-Academy - 2021",
+      "description": "Spesialisering innen utvikling, mindfullnes."
+    },
+    {
+      "title": "Bachelor i dynamisk webutvikling",
+      "subtitle": "Høgskolen i Buskerud - 2010-2013",
+      "description": "Spesialisering innen brukeropplevelse, fullstack-utvikling og moderne designverktøy."
+    },
+    {
+      "title": "A-student i webutvikling",
+      "subtitle": "Jeg har mestret og ervervet toppkarakterer i følgende emner:",
+      "description": "INF2010 – Kunstig intelligens og maskinlæring i praksis, APP2000 – Applikasjonsutvikling for web, PRO1000 – Praktisk prosjektarbeid, PRG1000 – Grunnleggende programmering 1, INF350 – Bacheloroppgave 15 SP"
+    }
+  ],
+  "skills": [
+    { "title": "HTML, CSS, JavaScript" },
+    { "title": "React, Next.js, Node.js" },
+    { "title": "PHP, Laravel, MySQL" },
+    { "title": "Python, Java, C#" },
+    { "title": "MongoDB, Supabase, PostgreSQL" },
+    { "title": "Docker, VPS, Caddy" },
+    { "title": "Illustrator, Photoshop, 3D & animasjon" }
+  ],
+  "recommendations": [
+    {
+      "title": "Hussein Abdul-Ameer",
+      "subtitle": "Medstudent",
+      "description": "«Jeg jobbet med Borgar i emnet app-2000, der vi utviklet en applikasjon for sjakkopplæring med sosialt nettverk. Borgar var gruppeleder og tok tidlig ansvar for struktur og fremdrift i prosjektet. Han hadde god teknisk kontroll, spesielt innen MongoDB, React og TypeScript, og bidro sterkt både i frontend- og backend-arbeid. Borgar sørget for at gruppa jobbet effektivt sammen, og han tok initiativ til å løse utfordringer underveis. Han viste tydelig at han både kan lede et team og skrive solid kode i komplekse systemer.»"
+    },
+    {
+      "title": "Kevin Tomasz Matarewicz",
+      "subtitle": "Medstudent",
+      "description": "Borgar har hatt en nøkkelrolle i utviklingen av Grandmasterssmith applikasjonen som hovedprogrammerer, og har levert arbeid av høy kvalitet gjennom hele prosjektet. Hans omfattende erfaring med MERN stacken og dyptgående forståelse for objektorientert programmering og typestyring har vært avgjørende for både struktur og fremdrift. Borgar tok ansvar for både frontend og backend-struktur, inkludert mappestruktur og serverkonfigurasjon på Vercel og Google Cloud. Han tok også ansvar for versjonskontroll via GitHub og var en viktig støttespiller for andre utviklere i teamet ved tekniske utfordringer. Hans innsikt i tilstandshåndtering gjennom Redux og Context API førte til betydelige ytelsesforbedringer i applikasjonen, spesielt ved koordinering av data på tvers av flere komponenter. Borgars evne til å kombinere teknisk dyktighet med lederskap og teamstøtte har hatt stor positiv innvirkning på teamets produktivitet og samhold. Han viste et imponerende engasjement, med over 600 timer lagt ned i prosjektet, og reflekterte gjennomtenkt over hva som kunne forbedres i prosjekter fremover. Borgar fremstår som en svært kompetent utvikler og en pålitelig og inspirerende samarbeidspartner som jeg trygt kan anbefale videre til både faglige og profesjonelle prosjekter innen systemutvikling og applikasjonsdesign.»"
+    }
+  ],
+  "hobbies": [
+    { "title": "Spillutvikling og AI" },
+    { "title": "Online-community" },
+    { "title": "Kosmos, filosofi og kvantefysikk" }
+  ],
+  "cvUrl": "borgar_flaen_stensrud_cv.pdf",
+  "contact": {
+    "email": "borgar@borgar-stensrud.no"
+  }
+}
