@@ -2,7 +2,7 @@
 // Komponentbasert struktur med forbedret design per seksjon
 
 import Head from 'next/head'
-import { useEffect, useState } from 'react'
+import { JSX, useEffect, useState } from 'react'
 import { FaBriefcase, FaBook, FaProjectDiagram, FaStar, FaHeart, FaCode } from 'react-icons/fa'
 
 // ▶ Definerer TypeScript-typer for porteføljedata
@@ -204,3 +204,6 @@ type SectionProps = {
   icon: JSX.Element
   items: SectionItem[]
 }
+
+
+
